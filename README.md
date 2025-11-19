@@ -1,6 +1,6 @@
 # インストールされるパッケージ
 - black 
-- jupyterlab==3.6.7 
+- jupyterlab
 - jupyterlab_code_formatter 
 - jupyterlab-git 
 - lckr-jupyterlab-variableinspector 
